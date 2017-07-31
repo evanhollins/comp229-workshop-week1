@@ -1,5 +1,6 @@
 public class SheepAndWolves {
-    public static void main(int[] Args) {
+
+    public static void main(String[] Args) {
         System.out.println("Sheep and Wolves.");
     }
 }
